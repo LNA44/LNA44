@@ -17,9 +17,13 @@ Practices: Clean Code, modularization, unit testing
 | Project | Description | Key Skills |
 
 | TajMahalApp | Indian restaurant menu with detailed views for each dish. | SwiftUI, MVVM, Navigation |
+
 | ToDoListApp | Task list with filtering. | Filtering, Unit Testing |
+
 | AuraApp | Lydia-style banking app to make transactions and check account balance. | Networking, Unit Testing |
+
 | VitesseApp | HR app to manage job candidates in a company. | SwiftUI, MVVM, Networking |
+
 | AristaApp | App to track workouts and sleep. | SwiftUI, MVVM, CoreData, Unit Testing |
 
 ➡️ All projects are available in the repositories below.
