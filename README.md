@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**LNA44/LNA44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Elena – iOS Developer (SwiftUI)
 
-Here are some ideas to get you started:
+Passionate about the Apple ecosystem, I develop iOS applications using Swift, SwiftUI, and the MVVM pattern.
+I’m especially interested in UI/UX optimization and mobile app security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Key Skills
+
+Languages & Tools: Swift, SwiftUI, Xcode, Git, Firebase
+Architecture: MVVM, separation of concerns, protocol-oriented design
+API & Data: Network requests, JSON, Core Data
+UI/UX: Accessibility, usability, smooth navigation
+Practices: Clean Code, modularization, unit testing
+📱 Projects
+
+| Project | Description | Key Skills |
+
+| TajMahalApp | Indian restaurant menu with detailed views for each dish. | SwiftUI, MVVM, Navigation |
+| ToDoListApp | Task list with filtering. | Filtering, Unit Testing |
+| AuraApp | Lydia-style banking app to make transactions and check account balance. | Networking, Unit Testing |
+| VitesseApp | HR app to manage job candidates in a company. | SwiftUI, MVVM, Networking |
+| AristaApp | App to track workouts and sleep. | SwiftUI, MVVM, CoreData, Unit Testing |
+
+➡️ All projects are available in the repositories below.
+
+📫 Contact
+
+💼 LinkedIn: [linkedin.com/in/elenadev](https://www.linkedin.com/in/héléna-
+bougaran-14a727159/)
+
+💡 Looking for SwiftUI / iOS missions or roles (remote or freelance).
+
+
